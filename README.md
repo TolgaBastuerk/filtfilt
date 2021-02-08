@@ -6,5 +6,7 @@ Following steps are planned:
 1) Use open source code (C++) of the audio tool Ardour from Linux Audio Systems to understand a basic implementation of the filtfilt function. [done]
 2) Implement the filtfilt function in python. [done]
 3) Verify implementation by comparing the filtering results of artifical data (noisy ECG Wave and noisy sine wave) with MATLAB and SciPy filtfilt() results [done]
-4) Implement verified python code in structured text as a function block [pending]
+4) Implement verified python code in structured text as a function block [done]
+5) Upload PLC project from CODESYS as an projectarchive [pending]
+
 
